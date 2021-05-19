@@ -6,3 +6,6 @@ I solve problems in creative ways. I have learned the importance of applying cla
 ## Get in Touch
 [LinkedIn](https://www.linkedin.com/in/devansh-chaudhary/)\
 [Twitter](https://twitter.com/devansh016)
+
+## ⚙ Statistics
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devansh016"/></p>
