@@ -7,9 +7,5 @@ I solve problems in creative ways. I have learned the importance of applying cla
 [LinkedIn](https://www.linkedin.com/in/devansh-chaudhary/)\
 [Twitter](https://twitter.com/devansh016)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devansh016&layout=compact&theme=vue-dark)
-
-
 ## ⚙ Statistics
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devansh016"/></p>
