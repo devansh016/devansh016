@@ -9,3 +9,7 @@ I solve problems in creative ways. I have learned the importance of applying cla
 
 ## ⚙ Statistics
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devansh016"/></p>
+
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=devansh016.visitor-badge">
+ <p/>
