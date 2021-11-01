@@ -8,6 +8,5 @@ I solve problems in creative ways. I have learned the importance of applying cla
 [Twitter](https://twitter.com/devansh016)
 
 ## ⚙ Statistics
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=devansh016&theme=react-dark&hide_border=true"/>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=devansh016&show_icons=true&theme=tokyonight">
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=devansh016.visitor-badge">
