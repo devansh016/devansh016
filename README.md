@@ -6,7 +6,3 @@ I solve problems in creative ways. I have learned the importance of applying cla
 ## Get in Touch
 [LinkedIn](https://www.linkedin.com/in/devansh-chaudhary/)
 [Twitter](https://twitter.com/devansh016)
-
-## GitHub Stats
-
-[![Devansh's GitHub stats](https://github-readme-stats-one-roan-37.vercel.app/api?username=devansh016)](https://github-readme-stats-one-roan-37.vercel.app/api?username=devansh016)
